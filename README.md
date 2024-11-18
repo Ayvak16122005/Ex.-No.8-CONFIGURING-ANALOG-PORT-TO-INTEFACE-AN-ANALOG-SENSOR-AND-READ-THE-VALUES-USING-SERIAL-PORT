@@ -185,7 +185,8 @@ printf("ADC VALUE:%ld\n",adcvalue);
 ## Output  :
 ![image](https://github.com/user-attachments/assets/e2f5a4e8-ac3d-4589-b0a1-14edc4208bdc)
 
-![image](https://github.com/user-attachments/assets/34d2a8d9-b56e-4e2b-852b-1d4c63f89d7e)
+![image](https://github.com/user-attachments/assets/52501542-7aa1-4179-aa5e-1f7116dde988)
+
 
 ## Result :
 
